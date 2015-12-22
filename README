@@ -1,3 +1,4 @@
+[官网](https://ffprofile.com/)
 For the functions installing addons, you need to create a folder "extensions" from where you run the django project and place there the XPIs.
 The Extension needs to have the name of its install.rdf file.
 
